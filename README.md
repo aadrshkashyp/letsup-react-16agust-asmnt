@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img loading="lazy" src="https://reverent-allen-66bd29.netlify.app/static/media/icon.c5950a5b.png" width="30" height="30">, I'm Aadarsh kashyap</h1>
+<h1 align="center">Hi <img loading="lazy" src="https://aadarshkashyap.pw/images/hello.gif" width="30" height="30">, I'm Aadarsh kashyap</h1>
 <h3 align="center">A passionate Wordpress Expert and on a Journey to become a Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadrshkashyp&label=Profile%20views&color=0e75b6&style=flat" alt="aadrshkashyp" /> </p>
