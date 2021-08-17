@@ -1,3 +1,22 @@
+<h1 align="center">Hi <img loading="lazy" src="https://aadarshkashyap.pw/wp-content/uploads/2021/05/waving_hand.gif" width="30" height="30">, I'm Aadarsh kashyap</h1>
+<h3 align="center">A passionate Wordpress Expert and on a Journey to become a Full Stack Developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadrshkashyp&label=Profile%20views&color=0e75b6&style=flat" alt="aadrshkashyp" /> </p>
+
+<p align="left"> <a href="https://twitter.com/aadarshkashyp" target="blank"><img src="https://img.shields.io/twitter/follow/aadarshkashyp?logo=twitter&style=for-the-badge" alt="aadarshkashyp" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/aadrshkashyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aadrshkashyp" height="30" width="40" /></a>
+<a href="https://twitter.com/aadarshkashyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarshkashyp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aadarshkashyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarshkashyp" height="30" width="40" /></a>
+<a href="https://fb.com/aadarshkashyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aadarshkashyp" height="30" width="40" /></a>
+<a href="https://instagram.com/aadrshkashyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadrshkashyp" height="30" width="40" /></a>
+</p>
+
+<h1><a href="https://reverent-allen-66bd29.netlify.app/">CLICK HERE TO CHECK THE LIVE VERSION</a></h1>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
